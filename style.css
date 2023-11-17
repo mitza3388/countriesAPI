@@ -1,0 +1,29 @@
+body{
+    font-size: larger;
+    font-family: 'Raleway', sans-serif;
+    color: aliceblue !important;    
+}
+
+
+header{
+    background-color: rgb(126, 152, 198);
+    height: 100px;
+}
+
+
+header .container{
+    height: inherit;
+}
+
+.nav li{
+    font-size: x-large;
+    font-weight:500;
+    padding: 20px;
+    cursor: pointer;
+}
+
+#content{
+    margin: 0 auto;
+    color: white;
+}
+
